@@ -1,0 +1,12 @@
+{
+  "name": "@goodforonefare/dependency-types-source",
+  "private": true,
+  "license": "MIT",
+  "repository": "git@github.com:GoodForOneFare/dependency-types-source.git",
+  "description": "Source dependencies for my dependency-types-test repo",
+  "version": "0.0.0",
+  "devDependencies": {
+    "lerna": "^2.5.1"
+  }
+}
+
