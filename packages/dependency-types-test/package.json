@@ -1,0 +1,12 @@
+{
+  "name": "@goodforonefare/dependency-types-test",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "devDependencies": {
+    "@goodforonefare/solo-dependency-consumer": "0.0.1"
+  }
+}

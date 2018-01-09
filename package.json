@@ -1,12 +1,12 @@
 {
-  "name": "@goodforonefare/dependency-types-source",
+  "name": "@goodforonefare/dependency-install-types",
   "private": true,
   "license": "MIT",
-  "repository": "git@github.com:GoodForOneFare/dependency-types-source.git",
-  "description": "Source dependencies for my dependency-types-test repo",
+  "repository": "git@github.com:GoodForOneFare/dependency-install-types.git",
+  "description": "Remind me how yarn treats optional/peer dependencies",
   "version": "0.0.0",
-  "devDependencies": {
-    "lerna": "^2.5.1"
+  "scripts": {
+    "test": "cd packages/dependency-types-test && yarn test"
   }
 }
 

@@ -1,0 +1,12 @@
+{
+  "name": "@goodforonefare/solo-dependency-consumer",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "optionalDependencies": {
+    "@goodforonefare/solo-dependency-1": "0.0.1"
+  },
+  "peerDependencies": {
+    "@goodforonefare/solo-dependency-2": "0.0.1"
+  }
+}
